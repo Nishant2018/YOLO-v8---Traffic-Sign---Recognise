@@ -1,5 +1,7 @@
 # Traffic Sign Detection Using YOLOv8
 
+![Traffic Sign Detection](https://github.com/Nishant2018/YOLO-v8---Traffic-Sign---Recognise/blob/main/2.png)
+
 In this project, I trained a YOLOv8 model to detect various traffic signs from images. Traffic sign detection is crucial for autonomous driving systems, and YOLOv8's ability to perform real-time detection makes it an excellent choice for this task.
 
 ## Evaluation Metrics
@@ -18,4 +20,4 @@ The model was trained on a dataset featuring diverse traffic sign images capture
 ## Results
 The YOLOv8 model achieved a commendable mAP of 76.8%, making it highly effective for real-world traffic sign detection. The results indicate the model's robustness in detecting a wide range of traffic signs under different scenarios, making it a valuable component for autonomous driving systems.
 
-![Traffic Sign Detection](https://via.placeholder.com/600x400)
+
